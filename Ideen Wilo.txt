@@ -1,0 +1,28 @@
+Ideen:
+
+1) Buchungssystem wie bei Teleperformance
+ Corona Prevention einfach durchführen
+
+
+0) wie viele leute müssen da sein
+1) Leute wollen ins Büro, System guckt wie viele kommen dürfen(mit Corona oder ohne) (maximale anzahl)
+2) regeln wer kommen darf mindestens einer vom Team? Gambling? (System 2)
+3) wo sitzt wer? besetzungsregeln?
+		Homearea?
+		Abstand Tische
+		Beliebteste Tische 
+
+
+Überlegungen:
+
+was sollen wir rausbekommen?
+wahrscheinlichkeit pro Platz wenig Sinn
+Wahrscheinlichkeit pro Area wenig Sinn
+
+Leute verteilen mit Teams
+
+
+Ideen?
+
+wie viele Tische
+wie beliebt Tische in der homearea? diese zu erst verlost
